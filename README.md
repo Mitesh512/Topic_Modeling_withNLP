@@ -53,6 +53,22 @@ Doc is assigned to topic #2
 Most common words in topic are: (dog, cat, rabbit, turtle,.....)
 
 
+## Non Negative Matirx Factorization:
+It is a unsupervised learning algorithm which does noth dimensionality redution as will as clutering.
+It can be used in cojuction with TF-IDF to model topics across documents.
+
+Steps for NMF:
+1. Create a Term docutment model(Vector space)
+2. Construct a tfidf model.
+3. Normalize tfidf
+4. Initialise NNDSVD ( Non Negative Double Single Sungular value Decomposition)
+5. Basis vector (clusters)
+6. Number of topics are needed to be initialised.
+
+
+
+
+
 
 
 
