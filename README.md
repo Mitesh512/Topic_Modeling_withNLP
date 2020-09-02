@@ -7,8 +7,8 @@ Here the idea is to cover the below topics:
 3. Implementation of LDA
 4. Non-Negative-Matrix Factorization
 5. Implementation of NMF
-Application of LDA and NMF
-
+6. Application of LDA and NMF
+-----
 1. What Topic Modeling is?
 
 Topic modeling is a way to analyse large volume of text and clustering them into different topics. As the text is unlabeled, that is we don't have scope for applying supervised learning approaches here. We try to discover those labels out of the text. We make cluseters of documents.
